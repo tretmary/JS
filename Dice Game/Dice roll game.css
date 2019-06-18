@@ -1,0 +1,9 @@
+img {
+  height: 50px;
+}
+.winner {
+  color: green;
+}
+.loser{
+  color: red;
+}
